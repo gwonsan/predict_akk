@@ -1,0 +1,13 @@
+OAs for each iteration are:[0.9796509981480749, 0.977697019501316]
+AAs for each iteration are:[np.float64(0.9167050180778643), np.float64(0.8934797167282584)]
+KAPPAs for each iteration are:[np.float64(0.8166368158597038), np.float64(0.8083800685487537)]
+
+mean_OA ± std_OA is: 0.9786740088246955 ± 0.000976989323379418
+mean_AA ± std_AA is: 0.9050923674030613 ± 0.011612650674802936
+mean_KAPPA ± std_KAPPA is: 0.8125084422042288 ± 0.004128373655475082
+
+Total average Training time is: 27032.70663189888
+Total average Testing time is: 2955.96484208107
+
+Mean of all elements in confusion matrix: [0.98894521 0.82123953]
+Standard deviation of all elements in confusion matrix: [0.00108249 0.02430779]
